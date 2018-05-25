@@ -7,6 +7,8 @@ Lambda projects using streams
 
 [Texas City Sort](https://github.com/Jcisneros92/Lambda_Expressions/tree/master/Texas%20City%20Sort)
 
+[Real Estate Sort](https://github.com/Jcisneros92/Lambda_Expressions/tree/master/Real%20Estate%20Sort)
+
 Simple lambda functions
 
 [Functional lambda examples](https://github.com/Jcisneros92/Lambda_Expressions/tree/master/Functional)
